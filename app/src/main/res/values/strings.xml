@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">天气手账</string>
+    <string name="title_home"></string>
+    <string name="title_dashboard"></string>
+    <string name="title_notifications"></string>
+    <string name="channel_Id">my_channel</string>
+    <string name="channel_name">channel名称</string>
+    <string name="channel_description">channel描述</string>
+</resources>
